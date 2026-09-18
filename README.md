@@ -287,34 +287,6 @@ This repository is intended for **academic, educational, and research purposes**
 
 ---
 
-## 👨‍🎓 Academic Project
-
-Developed at **Santhiram Engineering College, Nandyal**
-Department of Computer Science and Engineering (AI & ML)
-
-| Name | Role |
-|------|------|
-| S. Divya | Student / Developer |
-| A. Sai Vaishnavi | Student / Developer |
-| V. Harthika | Student / Developer |
-
-**Project Guide:** Mr. P. Jacob Vijaya Kumar
-**Head of Department:** Dr. J. David Sukeerthi Kumar
-
----
-
-## 🤝 Contributing
-
-```bash
-git checkout -b feature/your-feature
-# make your changes
-git commit -m "Add new feature"
-git push origin feature/your-feature
-# open a Pull Request
-```
-
----
-
 ## 📄 License
 
 Developed primarily for academic and educational purposes. If distributing or reusing, add an appropriate license (e.g., MIT) or specify applicable academic-use terms.
